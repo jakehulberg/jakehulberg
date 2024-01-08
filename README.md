@@ -14,11 +14,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python Credit Card Chooser</b>
+- [Python Credit Card Chooser](https://github.com/jakehulberg/Credit-Card-Chooser/blob/main/README.md)
 
-<h2>📺 Popular YouTube Videos</h2>
+<!-- <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s) -->
 
 <h2> 🤳 Connect with me:</h2>
 
