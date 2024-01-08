@@ -1,5 +1,7 @@
 <h1>Hi, I'm Jake!</h1>
 
+<b>I am a results-driven cybersecurity analyst with a relentless commitment to justice and safeguarding individuals and organizations. My motivation stems from a meticulous attention to detail, ensuring comprehensive protection in an ever-evolving digital landscape. I bring a goal-oriented mindset, coupled with robust written and verbal communication skills, to effectively contribute to the security objectives of diverse organizations</b>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Homelab</b>
