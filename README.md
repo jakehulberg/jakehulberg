@@ -14,6 +14,8 @@
 
 - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/ZSYMBJ8A6NYC)
 
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7QWBFEZQTDS9)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Python Credit Card Chooser](https://github.com/jakehulberg/Credit-Card-Chooser/blob/main/README.md)
