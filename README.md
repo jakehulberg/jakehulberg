@@ -8,6 +8,8 @@
 
 <h2>📄 Certifications</h2>
 
+- [CompTIA Security+](https://www.credly.com/earner/earned/badge/5bb92e66-0c35-41a2-a382-10e5e7545d0e)
+
 - [CompTIA Network+](https://www.credly.com/badges/1077b610-4916-43c2-a6ae-4c559135f379)
 
 - [CompTIA A+](https://www.credly.com/badges/95c00774-005b-46a0-a855-95666fc3304d/linked_in_profile)
