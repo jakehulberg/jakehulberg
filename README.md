@@ -2,7 +2,7 @@
 
 **Founding Developer Advocate @ [Infisical](https://infisical.com) | Content Creator | Cloud, Security & DevOps**
 
-I’m a systems engineer turned developer advocate who builds production-grade infrastructure and teaches it on camera. Kubernetes, secrets management, CI/CD, identity, Active Directory, networking — I’ve built it, broken it, and been on-call for it.
+I’m a systems administrator turned developer advocate who builds production-grade infrastructure and teaches it on camera. Kubernetes, secrets management, CI/CD, identity, Active Directory, networking — I’ve built it, broken it, and been on-call for it.
 
 I make [YouTube videos](https://youtube.com/@jakestechjourney) and [hands-on labs](https://jakestechlabs.com) that go deeper than "follow along" — they’re built from real tickets, real outages, and real production patterns.
 
@@ -21,7 +21,7 @@ Real-world IT & cloud labs based on production scenarios, real tickets, and real
 
 ## 🛠️ Background
 - **CCNA** | **Security+** | **AZ-104** | **SC-300** | Network+ | A+
-- Former sysadmin managing 15 financial institution clients (500+ users, $2B+ in assets, 99.9% uptime)
+- Managed 15 financial institution clients as a systems administrator (500+ users, $2B+ in assets, 99.9% uptime)
 - Built Infisical’s DevRel function from zero — 1.1M+ organic impressions/month, doubled Pro signups in Q1
 
 ## 🌐 Elsewhere
