@@ -16,7 +16,6 @@ Real-world IT & cloud labs based on production scenarios, real tickets, and real
 
 ## 📌 Featured Repos
 - **[Kubernetes ESO Demo](https://github.com/jakehulberg/Kubernetes-ESO-Demo)** — External Secrets Operator syncing secrets from Infisical into K8s using Kubernetes Auth (no static creds)
-- **[GitHub Actions + Infisical](https://github.com/jakehulberg/github-actions-infisical)** — secrets management in CI/CD pipelines with workload identity
 - **[Active Directory Homelab](https://github.com/jakehulberg/AD-Domain-Controller)** — full AD environment with DNS, DHCP, GPOs, modeled after enterprise production domains
 
 ## 🛠️ Background
