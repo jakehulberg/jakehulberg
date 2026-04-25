@@ -7,7 +7,7 @@ I’m a systems administrator turned developer advocate who builds production-gr
 I make [YouTube videos](https://youtube.com/@jakestechjourney) and [hands-on labs](https://jakestechlabs.com) that go deeper than "follow along" — they’re built from real tickets, real outages, and real production patterns.
 
 ## 🎥 YouTube — [@jakestechjourney](https://youtube.com/@jakestechjourney)
-**23K+ subscribers** | 165K+ monthly views | 2+ videos per week
+**25K+ subscribers** | 165K+ monthly views | 2+ videos per week
 
 Cloud, DevOps, and infrastructure content with real depth and production context.
 
@@ -19,7 +19,7 @@ Real-world IT & cloud labs based on production scenarios, real tickets, and real
 - **[Active Directory Homelab](https://github.com/jakehulberg/AD-Domain-Controller)** — full AD environment with DNS, DHCP, GPOs, modeled after enterprise production domains
 
 ## 🛠️ Background
-- **CCNA** | **Security+** | **AZ-104** | **SC-300** | Network+ | A+
+- **CCNA** | **Security+** | **AZ-104** | **SC-300** | **Network+** | **A+**
 - Managed 15 financial institution clients as a systems administrator (500+ users, $2B+ in assets, 99.9% uptime)
 - Built Infisical’s DevRel function from zero — 1.1M+ organic impressions/month, doubled Pro signups in Q1
 
