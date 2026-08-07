@@ -7,7 +7,7 @@ I’m a systems administrator turned developer advocate who builds production-gr
 I make [YouTube videos](https://youtube.com/@jakestechjourney) and [hands-on labs](https://jakestechlabs.com) that go deeper than "follow along" — they’re built from real tickets, real outages, and real production patterns.
 
 ## 🎥 YouTube — [@jakestechjourney](https://youtube.com/@jakestechjourney)
-**31K+ subscribers** | 165K+ monthly views | 2+ videos per week
+**32K+ subscribers** | 165K+ monthly views | 2+ videos per week
 
 Cloud, DevOps, and infrastructure content with real depth and production context.
 
