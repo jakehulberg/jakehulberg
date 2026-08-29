@@ -2,14 +2,12 @@
 
 **Founding Developer Advocate @ [Infisical](https://infisical.com) | Content Creator | AI Agent Security, Cloud & DevOps**
 
-I’m a systems administrator turned developer advocate who builds production-grade infrastructure and teaches it on camera. AI agents, Kubernetes, secrets management, CI/CD, identity, Active Directory, networking. I’ve built it, broken it, and been on-call for it.
+I’m a systems administrator turned developer advocate who builds secure, production-grade infrastructure and teaches people how it works. My work spans AI agent security, secrets management, Kubernetes, CI/CD, identity, and cloud infrastructure.
 
-I make [YouTube videos](https://youtube.com/@jakestechjourney) and [hands-on labs](https://jakestechlabs.com) that go deeper than "follow along." They’re built from real tickets, real outages, and real production patterns.
+I turn real implementation work, production patterns, and lessons from the field into [YouTube videos](https://youtube.com/@jakestechjourney) and [hands-on labs](https://jakestechlabs.com).
 
 ## 🎥 YouTube: [@jakestechjourney](https://youtube.com/@jakestechjourney)
 **34K+ subscribers** | **200K+ views per month** | 2+ videos per week
-
-Cloud, DevOps, and infrastructure content with real depth and production context.
 
 ## 🧪 Jake’s Tech Labs: [jakestechlabs.com](https://jakestechlabs.com)
 Real-world IT & cloud labs based on production scenarios, real tickets, and real outages.
@@ -19,14 +17,11 @@ Real-world IT & cloud labs based on production scenarios, real tickets, and real
 - **[Credential Brokering for AI Agents](https://github.com/jakehulberg/credential-brokering-workshop):** Created a PlatformCon 2026 hands-on workshop for giving autonomous agents access to real APIs without exposing credentials
 - **[Kubernetes ESO Demo](https://github.com/jakehulberg/Kubernetes-ESO-Demo):** External Secrets Operator syncing secrets from Infisical into Kubernetes using Kubernetes Auth with no static credentials
 
-## 🛠️ Background
-- **CCNA** | **Security+** | **AZ-104** | **SC-300** | **Network+** | **A+**
-- Created and delivered a PlatformCon 2026 workshop on secure credential brokering for autonomous AI agents
-- Managed 15 financial institution clients as a systems administrator (500+ users, $2B+ in assets, 99.9% uptime)
+## 🛠️ Experience & Credentials
 - Built Infisical’s DevRel function from zero, generating 1.1M+ organic impressions per month and doubling Pro signups in Q1
+- Managed 15 financial institution clients as a systems administrator, supporting 500+ users and $2B+ in assets with 99.9% uptime
+- **CCNA** | **Security+** | **AZ-104** | **SC-300** | **Network+** | **A+**
 
-## 🌐 Elsewhere
-- 🎥 YouTube: [@jakestechjourney](https://youtube.com/@jakestechjourney)
-- 🧪 Labs: [jakestechlabs.com](https://jakestechlabs.com)
+## 🌐 Connect
 - 💼 LinkedIn: [jake-hulberg](https://www.linkedin.com/in/jake-hulberg-914964193/)
 - 🏠 Personal: [jakehulberg.dev](https://jakehulberg.dev)
