@@ -7,7 +7,7 @@ I’m a systems administrator turned developer advocate who builds secure, produ
 I turn real implementation work, production patterns, and lessons from the field into [YouTube videos](https://youtube.com/@jakestechjourney) and [hands-on labs](https://jakestechlabs.com).
 
 ## 🎥 YouTube: [@jakestechjourney](https://youtube.com/@jakestechjourney)
-**34K+ subscribers** | **200K+ views per month** | 2+ videos per week
+**35K+ followers** | **250K+ views per month** | 2+ videos per week
 
 ## 🧪 Jake’s Tech Labs: [jakestechlabs.com](https://jakestechlabs.com)
 Real-world IT & cloud labs based on production scenarios, real tickets, and real outages.
