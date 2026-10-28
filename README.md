@@ -20,7 +20,9 @@ A real IT simulator with cloud-hosted labs covering networking, Kubernetes, Git,
 - **[Credential Brokering for AI Agents](https://github.com/jakehulberg/credential-brokering-workshop):** Created a PlatformCon 2026 hands-on workshop for giving autonomous agents access to real APIs without exposing credentials
 
 ## 🛠️ Experience & Credentials
-- Built Infisical’s DevRel function from zero, generating 1.1M+ organic impressions per month and doubling Pro signups in Q1
+- Built and scaled Infisical’s DevRel function from zero, generating 5M+ total organic impressions across company and creator channels
+- Grew Infisical’s YouTube channel from 100 to 1.3K subscribers and from virtually no monthly views to 30K
+- Lead multiple technical webinars each month and speak at conferences about credential brokering, AI agent security, Kubernetes security, and cloud-native secrets management
 - Managed 15 financial institution clients as a systems administrator, supporting 500+ users and $2B+ in assets with 99.9% uptime
 - **CCNA** | **Security+** | **AZ-104** | **SC-300** | **Network+** | **A+**
 
