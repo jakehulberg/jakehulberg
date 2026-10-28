@@ -10,7 +10,7 @@ I turn real implementation work, production patterns, and lessons from the field
 **38K+ followers** | **300K+ views per month** | 2+ videos per week
 
 ## 🧪 Jake’s Tech Labs: [jakestechlabs.com](https://jakestechlabs.com)
-Real-world IT & cloud labs based on production scenarios, real tickets, and real outages.
+A real IT simulator with cloud-hosted labs covering networking, Kubernetes, Git, cloud infrastructure, and practical troubleshooting.
 
 ## 📌 Featured Projects
 - **[Airlock](https://github.com/jakehulberg/airlock):** A Go web application for claiming isolated Kubernetes agent sandboxes, running time-limited tasks, and streaming their output through an OIDC-protected interface
@@ -25,5 +25,6 @@ Real-world IT & cloud labs based on production scenarios, real tickets, and real
 - **CCNA** | **Security+** | **AZ-104** | **SC-300** | **Network+** | **A+**
 
 ## 🌐 Connect
+- 📸 Instagram: [@jakestechjourney](https://www.instagram.com/jakestechjourney/)
 - 💼 LinkedIn: [jake-hulberg](https://www.linkedin.com/in/jake-hulberg-914964193/)
 - 🏠 Personal: [jakehulberg.dev](https://jakehulberg.dev)
